@@ -2620,7 +2620,7 @@
     align-items: center;
     gap: 20px;
     padding: 20px;
-    /* position: static; */
+    position: static;
     z-index: 3;
   }
 
@@ -2634,7 +2634,7 @@
     border-radius: 50px;
     box-shadow: 0px 0px 10px var(--background1);
     margin-top: 30px;
-    margin-right: 30px;
+    margin-right: 90px;
     justify-content: center;
   }
 
@@ -2667,9 +2667,9 @@
 
   .menu-icon {
     position: absolute;
-    right: 20px;
+    right: 10px;
     display: block;
-    top: 80px;
+    top: 35px;
   }
 
   #menubtn {
@@ -2680,12 +2680,12 @@
   .list2 {
     position: absolute;
     display: none;
-    top: 100px;
+    top: 50px;
     right: 0;
-    left: 120px;
+    left: 180px;
     z-index: 10;
     background: var(--headings);
-    padding: 60px 0px 80px 50px;
+    padding: 40px 0px 40px 40px;
     list-style-type: none;
     border-top-left-radius: 100px;
     border-bottom-left-radius: 100px;
