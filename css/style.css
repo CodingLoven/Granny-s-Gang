@@ -2669,7 +2669,7 @@
     position: absolute;
     right: 10px;
     display: block;
-    top: 35px;
+    top: 28px;
   }
 
   #menubtn {
@@ -3398,14 +3398,14 @@
     width: 100%;
     justify-content: space-between;
     margin-top: 30px;
-    font-size: 12px;
+    font-size: 10px;
   }
 
   .copyright a {
     color: var(--cta);
-    font-size: 12px;
+    font-size: 10px;
     text-decoration: none;
-    margin-top: 15px;
+    margin-top: 10px;
   }
 
   .socials {
