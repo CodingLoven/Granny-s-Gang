@@ -812,7 +812,7 @@
   .copyright a {
     color: var(--cta);
     font-size: 14px;
-    text-decoration: none;
+    text-decoration: underline;
     margin-top: 15px;
   }
 
@@ -1659,7 +1659,7 @@
   .copyright a {
     color: var(--cta);
     font-size: 14px;
-    text-decoration: none;
+    text-decoration: underline;
     margin-top: 15px;
   }
 
@@ -2520,7 +2520,7 @@
   .copyright a {
     color: var(--cta);
     font-size: 12px;
-    text-decoration: none;
+    text-decoration: underline;
     margin-top: 15px;
   }
 
@@ -3404,7 +3404,7 @@
   .copyright a {
     color: var(--cta);
     font-size: 10px;
-    text-decoration: none;
+    text-decoration: underline;
     margin-top: 10px;
   }
 
